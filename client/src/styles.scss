@@ -49,6 +49,11 @@ body,
   }
 }
 
+nav {
+  display: flex;
+  margin: 1rem;
+}
+
 .delete {
   color: rgb(216, 87, 87);
 }
